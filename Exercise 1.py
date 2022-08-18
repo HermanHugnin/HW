@@ -1,8 +1,3 @@
-from random import random, randint, randrange, choice
-from itertools import count, cycle
-from functools import reduce
-from time import time
-
 # Задача 1
 # Реализовать скрипт, в котором должна быть предусмотрена функция расчета заработной платы сотрудника.
 # В расчете необходимо использовать формулу:

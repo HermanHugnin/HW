@@ -1,8 +1,3 @@
-from random import random, randint, randrange, choice
-from itertools import count, cycle
-from functools import reduce
-from time import time
-
 # Задача 4
 # Представлен список чисел. Определить элементы списка, не имеющие повторений.
 # Сформировать итоговый массив чисел, соответствующих требованию.
