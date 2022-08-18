@@ -1,8 +1,3 @@
-from random import random, randint, randrange, choice
-from itertools import count, cycle
-from functools import reduce
-from time import time
-
 # Задача 6
 # Реализовать два небольших скрипта:
 # а) итератор, генерирующий целые числа, начиная с указанного,
@@ -12,6 +7,8 @@ from time import time
 # Необходимо предусмотреть условие его завершения.
 # Например, в первом задании выводим целые числа, начиная с 3, а при достижении числа 10 завершаем цикл.
 # Во втором также необходимо предусмотреть условие, при котором повторение элементов списка будет прекращено.
+
+from itertools import count, cycle
 
 for i in count(3):
     print(i)

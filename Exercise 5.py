@@ -1,8 +1,3 @@
-from random import random, randint, randrange, choice
-from itertools import count, cycle
-from functools import reduce
-from time import time
-
 # Задача 5
 # Реализовать формирование списка, используя функцию range() и возможности генератора.
 # В список должны войти четные числа от 100 до 1000 (включая границы).

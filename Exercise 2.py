@@ -1,8 +1,3 @@
-from random import random, randint, randrange, choice
-from itertools import count, cycle
-from functools import reduce
-from time import time
-
 # Задача 2
 # Представлен список чисел.
 # Необходимо вывести элементы исходного списка, значения которых больше предыдущего элемента.
